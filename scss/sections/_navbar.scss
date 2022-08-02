@@ -1,0 +1,60 @@
+@use '../custom' as*;
+
+
+.navbar{
+    margin-bottom: 300px
+}
+.menu{
+    background-color: $teal; 
+   ; 
+    
+    li{
+        font-family: 'Handlee', cursive;
+        padding:0 0.6em;
+
+
+        a{
+            color:rgb(255, 255, 255) !important;
+            
+
+           
+        }
+
+    
+
+    }
+}
+
+ .navbar ul li a:hover {
+    color:  #16796d!important;
+
+}
+
+
+.dropdown ul{
+    background-color: rgba(224, 224, 224, 0.658);
+    border: none;
+    
+
+}
+
+.dropdown ul li a:hover{
+   background-color: #ffffff !important;
+   color:  #23bfad!important;
+
+}
+
+
+.dropdown ul li a{
+    color:  #16796d!important;
+
+}
+
+
+
+
+
+
+
+
+

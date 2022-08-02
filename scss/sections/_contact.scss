@@ -1,0 +1,17 @@
+@use'../custom' as *;
+
+
+.img-cover{
+    height: 72vh;
+    width: 90vh;
+}
+
+.contact{
+
+    padding: 60px;
+    background-size: cover;
+   background-image: url("/images/course.jpg");
+    border-radius: 20px;
+}
+
+

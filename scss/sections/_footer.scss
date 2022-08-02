@@ -1,0 +1,85 @@
+@use'../custom'as*;
+
+
+.footer-pad{
+  font-family: 'Handlee', cursive;
+ 
+}
+
+
+
+ footer {
+    background: #61b198;
+   
+  }
+  
+  footer a {
+    color: #fff;
+    font-size: 14px;
+    transition-duration: 0.2s;
+   
+  }
+  
+  footer a:hover {
+    color: #16796d;
+    text-decoration: none;
+  }
+  
+  .copy {
+    font-size: 12px;
+    padding: 10px;
+    border-top: 1px solid #FFFFFF;
+  }
+  
+  .footer-middle {
+    padding-top: 1em;
+    color: #16796d;
+
+    
+  }
+  
+
+  .footer-pad  {
+    margin-left: 40px;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    margin-top: 1rem;
+    
+    
+  }
+
+  .footer-pad-contacts p {
+    color: white;
+    
+  }
+
+  h4{
+    color: #16796d;
+  }
+
+.list-group a{
+  margin-bottom: 0.6rem;
+}
+.list-group h4{
+  margin-top: 1rem;
+}
+
+.list-group p{
+  color: #fff;
+}
+ 
+
+  .social{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+
+
+  .footer-pad .btn-floating{
+    background-color: #16796d;
+  }
+ .button :hover{
+color: #4ed8ac;
+  }
+
+ 
